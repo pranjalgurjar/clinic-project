@@ -1,0 +1,9 @@
+.css{
+    background-image:url('./clinic1.jpg');
+    height : 100vh;
+    margin-top :5px;
+    background-size: 'cover';
+     background-repeat: 'no-repeat';
+     opacity: 1;
+     z-index: -1;
+}

@@ -9,6 +9,7 @@ import PatientDetail from "./componets/Doctor/PatientDetail";
 import Profile from "./componets/Doctor/Profile";
 
 import Home from "./Home";
+
 import Doctor from "./componets/Doctor/Doctor";
 import Reception from "./componets/reception/Reception";
 import Rlogin from "./componets/reception/Rlogin";
